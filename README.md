@@ -1,7 +1,6 @@
 # Summer of Science 2024: Natural Language Processing
-Mentee: Abhi Jain
-Mentor: Nilesh Choudhary
-Date: July 22, 2024
+### Mentee: Abhi Jain
+### Mentor: Nilesh Choudhary
 
 ## Overview
 This repository contains the reading project report for the Summer of Science 2024: Natural Language Processing project. The primary focus of this project is to explore various aspects of Natural Language Processing (NLP), covering both foundational and advanced concepts. 
